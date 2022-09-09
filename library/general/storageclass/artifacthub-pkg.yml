@@ -3,16 +3,15 @@ version: 0.0.1
 name: k8sstorageclass
 displayName: Storage Class
 createdAt: 2022-09-08T00:00:00Z
-description: Requires storage classes to be specified when used
+description: Policy that requires storage classes to be specified when used
 license: Apache-2.0
 homeURL: https://open-policy-agent.github.io/gatekeeper-library/website/storageclass
 keywords:
   - gatekeeper
   - policy
   - storage
-  - class
 links:
-  - name: Template
+  - name: Source
     url: https://github.com/open-policy-agent/gatekeeper-library/tree/master/library/general/storageclass
   - name: Rego source
     url: https://github.com/open-policy-agent/gatekeeper-library/tree/master/src/general/storageclass
