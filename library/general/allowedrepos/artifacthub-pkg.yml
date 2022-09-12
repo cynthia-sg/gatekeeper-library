@@ -6,6 +6,8 @@ createdAt: 2022-09-08T00:00:00Z
 description: Policy that requires container images to begin with a string from the specified list
 license: Apache-2.0
 homeURL: https://open-policy-agent.github.io/gatekeeper-library/website/allowedrepos
+install: |
+  ###Custom install
 keywords:
   - gatekeeper
   - policy
