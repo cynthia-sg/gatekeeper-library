@@ -7,7 +7,7 @@ description: Policy that requires container images to begin with a string from t
 license: Apache-2.0
 homeURL: https://open-policy-agent.github.io/gatekeeper-library/website/allowedrepos
 install: |
-  ###Custom install
+  ### Custom install
 keywords:
   - gatekeeper
   - policy
