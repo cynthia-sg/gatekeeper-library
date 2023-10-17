@@ -1,5 +1,5 @@
 # Artifact Hub package metadata file
-version: 0.0.2
+version: 0.0.3
 name: k8sallowedrepos
 displayName: Kubernetes Allowed Repositories
 createdAt: 2022-09-08T00:00:00Z
